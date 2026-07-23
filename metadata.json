@@ -1,0 +1,6 @@
+{
+  "name": "City Climate & Rain Finder",
+  "description": "Find climate in degrees Celsius (°C) and likelihood of rain for any city with live forecasts and AI climate insights.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
